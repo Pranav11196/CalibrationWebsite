@@ -1,0 +1,2 @@
+# CalibrationWebsite
+Using this website  customers can send request to the Admin so admin can send his Employee to the customer and bring those instrument to be calibrated. The Instrument brought to admin are calibrated. Once the calibration is done Admin can fill the data related to the customer’s Instruments. Customer can that calibrated Instrument data in website after login .Main objective of this project is building a website, which will provide better service to the customer. 
